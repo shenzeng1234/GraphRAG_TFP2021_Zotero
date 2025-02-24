@@ -1,4 +1,5 @@
-## This project builds a GraphRAG based on a collection of papers in a Zotero.
+## GraphRAG Connected to Zotero
+This project builds a GraphRAG based on a collection of papers in a Zotero.
 
 ### Prerequisites:
 #### Zotero
